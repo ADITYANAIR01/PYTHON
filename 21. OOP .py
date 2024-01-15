@@ -5,3 +5,6 @@ print(car_1.make)
 print(car_1.model)
 print(car_1.year)
 print(car_1.colour)
+
+Car.drive()
+Car.stop()
