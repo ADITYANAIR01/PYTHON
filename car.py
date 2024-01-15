@@ -3,7 +3,7 @@ class Car: # THE Object in OOP SHOULD BE IN CAPITAL LETTERS
         self.make = make
         self.model = model
         self.year=year
-        self.colour
+        self.colour=colour
 
     
     def drive():
